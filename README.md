@@ -2,6 +2,7 @@
 ### O projeto de um aplicativo de doações, inspirado por aplicativos como ifood e BomNegocio
 
 ![Screenshot](screenshot.jpeg)
+![Screenshot](IMG-20220428-WA0004.jpg)
 
 ## Objetivos
 * Criar uma ponte entre instituições e pessoas, como igrejas, orfanatos, ONGs e etc.
